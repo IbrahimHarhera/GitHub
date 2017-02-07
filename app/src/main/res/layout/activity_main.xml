@@ -11,7 +11,10 @@
     tools:context="com.example.ibrahim.github.MainActivity">
 
     <TextView
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:textSize="20sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="this is the first push!" />
 </RelativeLayout>
